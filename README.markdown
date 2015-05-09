@@ -42,3 +42,6 @@ This plugin does the following:
 This plugin uses the following libs:
 
 - https://github.com/daniloercoli/php-mobile-useragent
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/telkomsel13/wordpress-xml-rpc-validator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
